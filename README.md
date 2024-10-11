@@ -1,1 +1,1 @@
-git@github.com:OlgaNamm/ono-tebe-nado.git
+https://github.com/OlgaNamm/ono-tebe-nado/tree/main
